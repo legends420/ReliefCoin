@@ -6,6 +6,7 @@ Maximum supply: - 400,000,000 (400 million) TGAO <br>
 Consensus mechanism: - Proof-of-Stake (85% masternodes, 15% stakers) <br>
 Masternode collateral - 50000 TGAO <br>
 Features: - Budget, treausury and masternode governance is enabled <br>
+<br>
 RPC Port: - 15001 <br>
 P2P Port: - 15000 <br>
 <br><br>
