@@ -2,6 +2,7 @@
 
 
 Coin Specs Block times: - 1 minute <br>
+<br>
 Maximum supply: - 400,000,000 (400 million) TGAO <br>
 Consensus mechanism: - Proof-of-Stake (85% masternodes, 15% stakers) <br>
 Masternode collateral - 50000 TGAO <br>
